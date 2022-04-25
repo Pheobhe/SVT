@@ -10,7 +10,9 @@
 
 
 El objetivo de este sistema es proveer una interfaz segura para la visualización de tableros de PowerBI, con la finalidad de sumar capas de seguridad a la visualización de estos tableros, a partir de 1) autenticación y 2) enmascaramiento de url del tablero.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pheobhe&repo=github-readme-stats)](https://github.com/Pheobhe/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pheobhe&show_icons=true&theme=radical)
 <p align="center">
