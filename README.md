@@ -20,7 +20,7 @@ El objetivo de este sistema es proveer una interfaz segura para la visualizació
 
 
 <p align="center">
-    <a href="/home/lorena/Readme/SVT/LICENSE.txt" target="_blank">
+    <a href="LICENSE" target="_blank">
         <img src="https://img.shields.io/github/license/sulu/sulu.svg" alt="GitHub license">
     </a>
     <a href="#" target="_blank">
