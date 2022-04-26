@@ -12,9 +12,9 @@
 El objetivo de este sistema es proveer una interfaz segura para la visualización de tableros de PowerBI, con la finalidad de sumar capas de seguridad a la visualización de estos tableros, a partir de 1) autenticación y 2) enmascaramiento de url del tablero.
 
 
-[![Readme Card](/home/lorena/Readme/SVT.app/api/pin/?username=Pheobhe&repo=SVT)](https://github.com/Pheobhe/SVT)
+[![Readme Card](https://github.com/Pheobhe/SVT/blob/master/api/pin.js/?username=Pheobhe&repo=SVT)](https://github.com/Pheobhe/SVT)
 
-![Anurag's GitHub stats](https://SVT.vercel.app/api?username=Pheobhe&show_icons=true&theme=radical)
+![GitHub stats](https://SVT.vercel.app/api?username=Pheobhe&show_icons=true&theme=radical)
 
 [![Top Langs](https://SVT.vercel.app/api/top-langs/?username=Pheobhe&layout=compact)](https://github.com/Pheobhe/SVT)
 
