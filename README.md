@@ -7,8 +7,7 @@
 <br/>
 <p align="center">
     <a href="https://SVT.io/" target="_blank">
-        
-        <img width="20%" src="https://user-images.githubusercontent.com/88856308/164044449-f61b328b-11d2-4f9b-88a4-76fd9e6c140d.png">
+       <img width="20%" src="https://user-images.githubusercontent.com/88856308/164044449-f61b328b-11d2-4f9b-88a4-76fd9e6c140d.png">
     </a>
 </p>
 
