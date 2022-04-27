@@ -13,7 +13,7 @@ El objetivo de este sistema es proveer una interfaz segura para la visualizació
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
-[![Readme Card](https://github.com/Pheobhe/SVT/blob/master/api/pin/?username=Pheobhe&repo=SVT)](https://github.com/Pheobhe/SVT)
+[![Readme Card](https://github.com/Pheobhe/SVT/blob/master/api/pin.js/?username=Pheobhe&repo=SVT)](https://github.com/Pheobhe/SVT)
 
 ![GitHub stats](https://SVT.vercel.app/api?username=Pheobhe&show_icons=true&theme=radical)
 
