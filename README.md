@@ -1,4 +1,9 @@
+
 # 📓 Sistema de Visualización de Tableros  ➡️
+
+
+![Screenshot](https://user-images.githubusercontent.com/88856308/165524046-c7a097d3-77a5-4404-8b55-d073de98d60f.png)
+
 <br/>
 <p align="center">
     <a href="https://SVT.io/" target="_blank">
