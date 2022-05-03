@@ -16,34 +16,15 @@
 
 El objetivo de este sistema es proveer una interfaz segura para la visualización de tableros de PowerBI, con la finalidad de sumar capas de seguridad a la visualización de estos tableros, a partir de 1) autenticación y 2) enmascaramiento de url del tablero.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
-[![Readme Card](https://github.com/Pheobhe/SVT/blob/master/api/pin.js/?username=Pheobhe&repo=SVT)](https://github.com/Pheobhe/SVT)
-
-![GitHub stats](https://SVT.vercel.app/api?username=Pheobhe&show_icons=true&theme=radical)
-
-[![Top Langs](https://SVT.vercel.app/api/top-langs/?username=Pheobhe&layout=compact)](https://github.com/Pheobhe/SVT)
 
 
 <p align="center">
-    <a href="https://github.com/Pheobhe/SVT/blob/master/LICENSE.txt" target="_blank">
-        <img src="https://img.shields.io/github/license/sulu/sulu.svg" alt="GitHub license">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/github/tag/sulu/sulu.svg" alt="GitHub tag (latest SemVer)">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/github/workflow/status/sulu/sulu/Test%20application.svg?label=test-workflow" alt="Test workflow status">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/github/commit-activity/y/sulu/sulu.svg" alt="GitHub commit activity">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/github/contributors-anon/sulu/sulu.svg" alt="GitHub contributors">
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/packagist/dt/sulu/sulu.svg" alt="Packagist downloads">
-    </a>
+    <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/pheobhe/svt/master?color=yellow&label=Checks&style=plastic">
+    <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/pheobhe/svt/master?color=orange&label=Branches&style=plastic">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pheobhe/svt?color=yellow&label=Languajes&style=plastic">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pheobhe/svt?style=plastic">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/pheobhe/svt?color=FF5733&label=Size&style=plastic">
+    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/pheobhe/svt/total?color=bbff33&label=Download&style=plastic">
 </p>
 <br/>
 
