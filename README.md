@@ -25,6 +25,7 @@ El objetivo de este sistema es proveer una interfaz segura para la visualizació
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pheobhe/svt?style=plastic">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/pheobhe/svt?color=FF5733&label=Size&style=plastic">
     <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/pheobhe/svt/total?color=bbff33&label=Download&style=plastic">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/pheobhe/svt?label=Issues&style=plastic">
 </p>
 <br/>
 
